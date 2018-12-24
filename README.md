@@ -7,4 +7,4 @@ android 6.0 clean memory and cache(其他系统版本，请自行百度)
 IPackageStatsObserver.aidl,IPackageDataObserver.aidl等</br>
 PackageManager.java等</br>
 ## 动画效果展示
-![image](https://github.com/helang1991/VolumeWave/blob/master/wave_test.gif)</br>
+![image](https://github.com/helang1991/ClearTool/blob/master/gif/11.gif)</br>
